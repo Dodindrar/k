@@ -1,4 +1,4 @@
 <first>
 {
-image-url: https://cdn.discordapp.com/attachments/595913512065171467/638346990350237706/server.png;
+image-url: https://cdn.discordapp.com/attachments/595913512065171467/739421170348326993/discord_256x256.png;
 }
